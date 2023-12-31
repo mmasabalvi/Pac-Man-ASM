@@ -1,8 +1,4 @@
 ;Muhammad Masab Hammad
-;22I-1004
-;CS-D
-
-
 
 
 INCLUDE irvine32.inc
